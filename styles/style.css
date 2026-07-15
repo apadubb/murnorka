@@ -31,7 +31,7 @@
 
 @font-face {
   font-family: "Root UI";
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
   src: url("../fonts/pt-root-ui_bold.woff2") format("woff2");
