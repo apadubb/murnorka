@@ -31,7 +31,7 @@
 
 @font-face {
   font-family: "Root UI";
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
   src: url("../fonts/pt-root-ui_bold.woff2") format("woff2");
@@ -255,6 +255,7 @@ h1 {
 
 h2 {
   font-size: 1.6em;
+  letter-spacing: -0.7px;
 }
 
 .hero-caption {
