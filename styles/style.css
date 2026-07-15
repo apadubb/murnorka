@@ -131,7 +131,7 @@ body {
 }
 
 .text-width {
-  width: 70%;
+  width: 75%;
   @media (max-width: 768px) {
     width: 100%;
   }
