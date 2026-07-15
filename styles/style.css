@@ -141,7 +141,7 @@ body {
 }
 
 .hero {
-  padding-top: 1.6em;
+  padding-top: 1.7em;
   background: rgb(var(--cover-background-color-RGB), 1);
   overflow: hidden;
 }
@@ -155,7 +155,7 @@ header {
 }
 
 .logo {
-  margin: 5px 38px 0px 1px;
+  margin: 0px 38px 0px 1px;
 }
 
 nav {
