@@ -141,7 +141,7 @@ body {
 }
 
 .hero {
-  padding-top: 1.7em;
+  padding-top: 1.8em;
   background: rgb(var(--cover-background-color-RGB), 1);
   overflow: hidden;
 }
